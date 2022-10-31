@@ -1,0 +1,13 @@
+{
+    "name": "docker_web_app",
+    "version": "1.0.0",
+    "description": "Home work task for lection five.",
+    "author": "Danil Dukhovnyi IS-03",
+    "main": "server.js",
+    "scripts": {
+        "start": "node server.js"
+    },
+    "dependencies": {
+        "express": "^4.18.2"
+    }
+}

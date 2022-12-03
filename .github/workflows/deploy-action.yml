@@ -2,10 +2,10 @@ name: cicdworkfl
 'on':
   push:
     branches:
-      - master
+      - main
   pull_request:
     branches:
-      - master
+      - main
 jobs:
   workflow:
     runs-on: ubuntu-latest
